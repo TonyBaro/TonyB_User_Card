@@ -36,8 +36,10 @@
 .location{
     display: flex;
     justify-content: space-between;
-    width: 125px;
+    width: 150px;
     margin: 10px 0px;
+    font-size: 14pt;
+    font-weight: bold;
 }
 .info{
     width: 300px;
